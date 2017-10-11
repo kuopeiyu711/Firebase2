@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         //new a Bundle to transfer data
         Bundle bundle = new Bundle();
-        bundle.putString("data","users/F74021234/check/20171104");  //choose the person to confirm
+        bundle.putString("data","users/F74025678/check/20171104");  //choose the person to confirm
 
         //transfer Bundle to intent
         i.putExtras(bundle);
